@@ -5,9 +5,9 @@
 The [AWG website](http://waveguides.com.au) is a static site build on top of [html5boilerplate](https://github.com/h5bp/html5-boilerplate) and templified with [Brace Tags](https://github.com/braceio/tags).
 
 ## Requirements
-- [virtualenv](https://pypi.python.org/pypi/virtualenv)
+- [Virtualenv](https://pypi.python.org/pypi/virtualenv)
 - [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper/)
-- [Python Brace Tags](https://pypi.python.org/pypi/brace-tags/1.0.3)
+- [Brace Tags](https://pypi.python.org/pypi/brace-tags/1.0.3)
 
 ## Build
 
