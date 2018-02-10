@@ -218,7 +218,7 @@ h1, h2 {
 }
 
 .eventListing {
-    background-color: #000000;
+    background-color: rgba(0, 0, 0, 0.8);
     color: #FFCD00;
     display: inline-block;
     max-width: 25em;
