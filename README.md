@@ -22,3 +22,5 @@ Use `tags build` or `tags serve` to generate the wesite into the `_site` folder.
 The `_build_site.sh` builds the site into the `_site` folder. This script will remove the `.git` folder making it easy to commit the changes into the feature branch. It also removes the `_site` folder first making sure there are no old files left in the folder.
 
 The `_publish_site.sh` script pushes the site to the `gh-pages` branch. But before it does this it checks if the master branch is clean. If there are any changes it reminds the user to commit/resolve these first.
+
+![WaveGuides](https://github.com/waveguides/awg-graphics/raw/master/logos/awg/awg_diamond_gitfooter-grey.png)
